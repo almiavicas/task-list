@@ -1,4 +1,4 @@
-import "./App.css";
+import React from 'react';
 import MyRouter from "./router";
 import { Auth, AUTH_STRATEGIES } from "@8base/auth";
 import { AppProvider } from "@8base/react-sdk";
